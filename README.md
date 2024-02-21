@@ -18,11 +18,11 @@ The **learning goals** for this project is:
 
 *The above general statement about project 2 can be removed once you are finished with your project. It is optional.
 
-## Project Title Lorem ipsum dolor sit amet
+## Project 2: Data Visualization for Disaster Declarations
 Term: Spring 2024
 
 + Team 8 #
-+ **Projec title**: + Team members
++ **Projec title**: Data Visualization for Disaster Declarations
 	+ Forain Zhang
 	+ Rhoan Lee
 	+ Rui Chen
